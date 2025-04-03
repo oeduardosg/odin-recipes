@@ -1,0 +1,13 @@
+.main.background {
+    margin: 50px;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.margin {
+    margin: 50px;
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+}
